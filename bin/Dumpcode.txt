@@ -1,0 +1,33 @@
+private void addMonsters() {
+//		AnimationTimer aTimer=new AnimationTimer() {
+//			
+//			@Override
+//			public void handle(long arg0) {
+//				// TODO Auto-generated method stub
+//				Montster m1=new Montster(zone2);
+//				m1.Position();
+//				root.getChildren().add(m1.getCorpe());
+//				
+//			}
+//		};
+//		
+//		aTimer.start();
+//	}
+//	private void setMovementKeys() {
+//		scene.setOnKeyPressed(new EventHandler<KeyEvent>(){
+//			  @Override
+//			  public void handle(KeyEvent event){
+//
+//				  switch(event.getCode())
+//				  {
+//				  case D: hero.right(); break;
+//				  case W: hero.up(); break;
+//				  case S: hero.down(); break;
+//				  case A: hero.left(); break;
+//				default:
+//					break;
+//				  }
+//			  }}
+//			);
+//		
+//	}
